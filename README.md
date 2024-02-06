@@ -6,8 +6,14 @@
 
 -<!-- ![This is Himanshu Singh Sikarwar](https://i.ibb.co/FmnFhy6/kuso-Cartoon-16360057410673-avatar.jpg)-->
 <img src="https://i.imgur.com/F056Hyv.png"/>
+### Skills 🛠️
+- **Languages**: Python, C/C++, Java
+- **DS/ML/DL**: Pandas, Sklearn, PyTorch 
+- **Dev related**: Git
+-
 - 💞️ I’m looking to collaborate on a C project
 - 📫 Do Check My Profile www.linkedin.com/in/himanshu-singh-055b31228
+  
 
 <!---
 coderhim/coderhim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
