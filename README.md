@@ -18,5 +18,7 @@
 - **Bachelor's Degree:** *Electrical Engineering with Computer Science Specialization*
   - **Institution:** Dayalbagh Educational Institute, Agra, India
 
+<br/><br/>
+
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=coderhim&theme=radical)](https://github.com/coderhim/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderhim&layout=compact&theme=dark)](https://github.com/coderhim/github-readme-stats)
