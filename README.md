@@ -15,8 +15,8 @@
 - **Bachelor's Degree:** *Electrical Engineering with Computer Science Specialization*
   - **Institution:** Dayalbagh Educational Institute, Agra, India
 
-- 💞️ I’m looking to collaborate on a C project
-- 📫 Do Check My Profile www.linkedin.com/in/himanshu-singh-055b31228
+- [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=coderhim&theme=radical)](https://github.com/coderhim/github-readme-stats)
+
   
 
 <!---
