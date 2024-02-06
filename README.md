@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @coderhim(Himanshu Singh Sikarwar)
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning C language And I know python also
+- 👋 Hi, I'm @coderhim (Himanshu Singh Sikarwar). I ❤️ Computer Science
+- 👀 I’m interested in Computer Vision, Deep Learning, AI/ML, Analytics, and Academia.
+  https://www.linkedin.com/in/himanshu2singh/
+  
 - 💞️ I’m looking to collaborate on a C project
 - 📫 Do Check My Profile www.linkedin.com/in/himanshu-singh-055b31228
 
