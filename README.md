@@ -7,8 +7,8 @@
 -<!-- ![This is Himanshu Singh Sikarwar](https://i.ibb.co/FmnFhy6/kuso-Cartoon-16360057410673-avatar.jpg)-->
 <img src="https://i.imgur.com/F056Hyv.png"/>
 ### Skills 🛠️
-- **Languages**: Python, C/C++, Java
-- **DS/ML/DL**: Pandas, Sklearn, PyTorch 
+- **Languages**: Python, C/C++, Java, SQL
+- **DS/ML/DL**: Pandas, Sklearn, PyTorch, OpenCV, Numpy, Matplotlib
 - **Dev related**: Git
 -
 - 💞️ I’m looking to collaborate on a C project
