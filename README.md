@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm [@coderhim](https://github.com/coderhim) (Himanshu Singh Sikarwar). I ❤️ Computer Science and Football.
 
-- 👀 I’m interested in Computer Vision, Deep Learning, AI/ML, Analytics, and Academia (Electronics).
+- 👀 I’m interested in C++, EDA, Computer Vision, Deep Learning, AI/ML, Data Analytics, and Academia (Electronics).
   
 [![Linkedin Badge](https://img.shields.io/badge/-coderhim-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu2singh/)](https://www.linkedin.com/in/himanshu2singh/)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-coder10him-brightgreen?style=flat-square&logo=leetcode)](https://leetcode.com/coder10him/)
